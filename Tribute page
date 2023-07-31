@@ -1,0 +1,110 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet"  href="style.css"></rel>
+    </head>
+    <body>
+        <h1>Thalapathy</h1>
+        <div id="img">
+       <center><img src="c:\Users\HI\Documents\vijay-hd.jpg" height="350" weight="350"  id="image" alt="Error loading Image"></center> 
+       <small id="caption"><center>Joseph Vijay Chandrasekhar born 22 June1974, known professionally as Vijay, is an Indian actor and singer<br> who works predominantly in Tamil cinema.</small></center>
+    </div>
+    <div id="tribute-data">
+       <h2>Story about Thalapathy</h2>
+       <p>
+        He is among the highest paid actors in India and has featured in Forbes India's Celebrity 100 list on seven occasions.<br>He has played the lead in 66 films and the International Business Times framed him as a "consistent performer".<br>Referred to as Thalapathy Vijay has a significant following internationally.He has won several awards, <br>including an Osaka Best Actor Award and a South Indian International Movie Award. In 2023, <br>he has become the most highest paid actor in India and one of the top paid actor in the world.<br><br></p>
+
+       <h3>Film career </h3>
+       <p> 1984–2003: Child actor and transition into lead roles,Vijay in 1987
+At the age of 10,Vijay started his film career as a<br> child actor in Vetri (1984), making his first paycheck of ₹500 rupees paid for by actor-and-producer<br> P. S. Veerappa.He then performed as a child actor in films such as Kudumbam (1984), Vasantha Raagam (1986),<br> Sattam Oru Vilayaattu (1987) and Ithu Engal Neethi (1988).He also performed in Naan Sigappu<br> Manithan (1985) as a co-star to Rajinikanth, who was the lead actor.<br><br>
+
+Vijay started to play lead roles at the age of 18 starting with Naalaiya Theerpu (1992).Vijay then appeared in the films<br> Sendhoorapandi, Rasigan, Deva and Coimbatore Mappillai. They were commercially successful, though not<br> critically acclaimed.
+
+
+Vijay in 1998,
+In 1996, Vijay performed in the Vikraman-directed Poove Unakkaga, <br>which he states gave him his "initial breaks" and caused his popularity to "reach great heights".In 1997, <br>Vijay acted in Kaalamellam Kaathiruppen which received positive response from critics,<br>and Love Today,which was applauded by audiences.<br><br>
+
+He also starred in the films Nerrukku Ner, Kadhalukku Mariyadhai, Ninaithen Vandhai, Priyamudan and<br> Thulladha Manamum Thullum which released to positive reviews and were commercially successful.<br>He then performed in Nilaave Vaa. This was followed by the films Endrendrum Kadhal, Nenjinile,<br> and Minsara Kanna.
+
+In 2000, he performed in Kannukkul Nilavu, which was Vijay's 25th <br>critically successful film, alongside two commercially successful romance films, Kushi and Priyamaanavale.<br> His next successful films were Friends, Badri and Shahjahan. In 2002,<br> he starred in the action film Thamizhan alongside Hindi actress Priyanka Chopra.Later,<br> he featured in the romantic film Youth and the action film Bagavathi.<br><br>
+
+    </div>
+    For forther information ,check out<a id="tribute-link" href="#"><b>Thalapathy Vijay </b> <small>Developed by @ [<a href="#" > Lavanya S]</a></a></small>
+    </body>
+</html>
+
+
+
+body{
+   background-color: rgba(109, 161, 175, 0.863);
+   margin:2%;
+   padding:5px;
+}
+
+h1{
+   font-style: italic;
+    font-size:xx-large;
+    text-align: center;
+    text-shadow:5px 5px 5px rgb(150, 148, 148);
+}
+
+img{
+    
+    background-color: darkgray;
+    margin: auto;
+    border-image-outset: 0ch;
+    border-image-width: 0%;
+     image-orientation: from-image;
+    display: inline-block;
+     
+}
+
+#caption{ 
+    font-size:20px;
+    font-family: Georgia;
+    color: black;
+    text-align:center;
+    text-shadow: 10dvh;
+
+}
+
+#tribute-data{
+    background-color: rgba(109, 161, 175, 0.863);
+    box-shadow: 10px 10px 10px rgb(56, 56, 56);
+    margin: 10px;
+    margin-top: 20px;
+    scroll-padding-top: 20px 20px;
+}
+
+#tribute-link{
+    text-decoration: dotted;
+    text-shadow: 1px 1px black;
+    font-size: 20px;
+    font-family:Georgia;
+}
+
+h2{
+    margin: 2%;
+    font-size: 20px;
+    font-family: Cambria;
+    text-align:center;
+    text-shadow:10dvh;
+}
+
+h3{
+    font-size: 22px;
+    font-family:Cambria;
+    text-align:center;
+    text-shadow: 10dvh;
+}
+p{
+    font-family:Geneva;
+    font-size: 20px;
+    text-transform: transparent;
+    text-size-adjust:justify;
+    text-align: center;
+    text-shadow: 10dvh;
+    align-items: center;
+
+}
